@@ -1,16 +1,12 @@
-# contactapp
+# contactapp for azodha
 
-A new Flutter project.
+This is a repo for a simple contacts app made using Flutter with Cloud Firestore for storage and BLoC for state management.
 
-## Getting Started
+# How to Use 
+Upon opening the app, user can click on the floating action button which will redirect them to add contact page which has a form where user can add a new contact.
+Once a new contact is created, it can be viewed on the home page. By tapping on the contact user can view further contact details.
 
-This project is a starting point for a Flutter application.
+The google drive link for the apk is given below. 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# APK
+https://drive.google.com/drive/folders/1I5-WKUElPyP1NkfTw32dKecwaOnY6c_m?usp=sharing
